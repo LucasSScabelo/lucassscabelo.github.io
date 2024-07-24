@@ -506,7 +506,7 @@ img{
     }
 
     .job__figma iframe{
-        width: 390px;
+        width: 300px;
         height: 200px;
         border: 2px solid #000; /* Define a moldura */
         border-radius: 8px; /* Define bordas arredondadas */
