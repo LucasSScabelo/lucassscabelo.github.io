@@ -504,6 +504,11 @@ img{
     .contact__form {
         width: 100%;
     }
+
+    .job__figma iframe{
+        width: 200px;
+        height: 112,5px;
+    }
 }
 
 /* Para dispositivos de tamanho médio (largura mínima de 768px) */
